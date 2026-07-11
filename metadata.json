@@ -1,0 +1,6 @@
+{
+  "name": "Stonegate Pub Company",
+  "description": "Timeless by tradition, built for tomorrow. A Web 3.0 and Bitcoin-enabled experience for Stonegate pubs across the UK, featuring live BTC pricing, digital wallet connection, loyalty point tracking, collectibles minting, and community governance voting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
